@@ -1,5 +1,7 @@
 ### npm i && npm run dev
 
-### php artisan migrae --seed
+### php artisan migrate --seed
+
+### composer install
 
 ### php artisan serve
